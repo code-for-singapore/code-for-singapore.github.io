@@ -1,0 +1,8 @@
+---
+layout: default
+img: sharingProjectDignity.jpeg
+category: Blog
+title: Sharing by Project Dignity
+description: |
+---
+ Sharing by <a href="https://projectdignity.sg/" class="active-link" target="_blank">Project Dignity</a>

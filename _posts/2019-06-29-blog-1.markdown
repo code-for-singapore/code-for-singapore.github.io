@@ -1,0 +1,8 @@
+---
+layout: default
+img: CodeForSingapore1stMeetupIBM.jpeg
+category: Blog
+title: Code for Singapore 1st Meetup
+description: |
+---
+ IBM Studios hosted our <a href="https://www.meetup.com/Code-for-Singapore/events/262219993/" class="active-link" target="_blank">first meetup event</a>

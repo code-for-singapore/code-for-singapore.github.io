@@ -1,0 +1,8 @@
+---
+layout: default
+img: Code4SingaporeIssuesDeepDive.jpeg
+category: Blog
+title: Code for Singapore Issues Deep Dive
+description: |
+---
+ With some providence one of our members have opened up his space for us to work on the weekends

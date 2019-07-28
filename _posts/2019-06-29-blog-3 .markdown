@@ -1,0 +1,8 @@
+---
+layout: default
+img: sharingSingaporeChildrenSociety.jpeg
+category: Blog
+title: Sharing by Singapore Children's Society
+description: |
+---
+ Sharing by <a href="https://www.childrensociety.org.sg/" class="active-link" target="_blank">Singapore Children's Society</a>
