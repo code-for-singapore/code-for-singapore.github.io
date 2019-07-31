@@ -340,3 +340,7 @@ p.copyright {
         margin-right: 30px;
     }
 }
+
+.list-inline>li {
+    padding-bottom: 10px;
+}
