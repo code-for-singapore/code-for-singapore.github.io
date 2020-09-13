@@ -2,11 +2,17 @@
 <html>
 	{% include head.html %}
 
-	<body>
+	<body> 
 		{% include header.html %}
-		{% include about.html %}
-		{% include community.html %}
-		{% include page_content.html %}
+		{% if page.title != "Salt Rice"%}
+			{% include about.html %}
+			{% include community.html %}
+			{% include page_content.html %}
+		{% else %}
+			{% include salt_rice.html %}
+			{% include solution.html %}
+			{% include faq.html %}
+		{% endif %}
 		{% include contact.html %}
 		{% include footer.html %}
 		{% include js.html %}
