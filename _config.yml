@@ -2,14 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Code for SG
-email: your-email@domain.com
-author: Code for SG
+url: https://c4sg.sg
+title: Code for Singapore
+email: orcsab@gmail.com
+author: Code for Singapore
 description: > # "Write an awesome description for your new site here. 
   Code for Singapore believes that digital technology can empower 
   non-profits and be used to solve the gaps in society.
-copyright: 'Copyright &copy; 2019 Code for SG. All Rights Reserved.'
+copyright: 'Copyright &copy; 2020 Code for Singapore. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -19,6 +19,8 @@ credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme cr
 # Build settings
 markdown: kramdown
 permalink: pretty
+plugins:
+  - jekyll-seo-tag
 
 # ----------------------- #
 #   3rd Party Settings    #
