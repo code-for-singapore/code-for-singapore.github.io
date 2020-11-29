@@ -2,13 +2,28 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://c4sg.sg
 title: Code for Singapore
-email: orcsab@gmail.com
-author: Code for Singapore
+tagline: Technology for a better society
 description: > # "Write an awesome description for your new site here. 
   Code for Singapore believes that digital technology can empower 
   non-profits and be used to solve the gaps in society.
+url: https://c4sg.sg
+email: scott@c4sg.sg
+author: code4sg
+twitter:
+  username: code4sg
+  card: summary
+facebook:
+  publisher: https://www.facebook.com/groups/code4sg
+logo: https://c4sg.sg/img/logo.png
+social:
+  name: Code for Singapore
+  links:
+    - https://slack.codeforall.org/
+    - https://github.com/code-for-singapore
+    - https://www.meetup.com/Code-for-Singapore
+    - https://www.facebook.com/groups/code4sg
+
 copyright: 'Copyright &copy; 2020 Code for Singapore. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
@@ -22,18 +37,5 @@ permalink: pretty
 plugins:
   - jekyll-seo-tag
 
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
-
-social:
-  - title: slack
-    url: https://slack.codeforall.org/
-  - title: github
-    url: https://github.com/code-for-singapore
-  - title: meetup
-    url: https://www.meetup.com/Code-for-Singapore
-  - title: facebook
-    url: https://www.facebook.com/groups/code4sg
 
 theme: jekyll-theme-cayman
