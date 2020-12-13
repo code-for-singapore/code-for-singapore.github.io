@@ -32,7 +32,8 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/CodeForSingapore1stMeetup.jpeg) no-repeat center center;
+    /* background: url(../img/CodeForSingapore1stMeetup.jpeg) no-repeat center center; */
+    background: url(../img/photo-1541267365358-43ba30c96460.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -305,7 +306,7 @@ p.copyright {
         line-height: 27px;
         text-align: center;
         margin-top: 40px;
-        text-decoration: underline;
+        /* text-decoration: underline; */
     }
 }
 
@@ -317,7 +318,7 @@ p.copyright {
         line-height: 41px;
         text-align: center;
         margin-top: 40px;
-        text-decoration: underline;
+        /* text-decoration: underline; */
     }
     .about-banner {
         min-height: 525px;
